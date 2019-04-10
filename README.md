@@ -19,30 +19,33 @@
 6. - [ ] *Google Cloud Certified Professional Data Engineer Exam*
 [link](https://cloud.google.com/certification/data-engineer)
 ***
-7. - [ ] *Intro To Statistics*
+7. - [ ] *Big Data for Data Engineers*
+[link](https://www.coursera.org/specializations/big-data-engineering)
+***
+8. - [ ] *Intro To Statistics*
 [link](https://eu.udacity.com/course/intro-to-statistics--st101)
 ***
-8. - [ ] *Intro to Descriptive Statistics*
+9. - [ ] *Intro to Descriptive Statistics*
 [link](https://eu.udacity.com/course/intro-to-descriptive-statistics--ud827)
 ***
-9. - [ ] *Intro to Inferential Statistics*
+10. - [ ] *Intro to Inferential Statistics*
 [link](https://eu.udacity.com/course/intro-to-inferential-statistics--ud201)
 ***
-10. - [ ] *Intro To Data Analysis*
+11. - [ ] *Intro To Data Analysis*
 [link](https://eu.udacity.com/course/intro-to-data-analysis--ud170)
 ***
-11. - [ ] *Data Analyst*
+12. - [ ] *Data Analyst*
 [link](https://eu.udacity.com/course/data-analyst-nanodegree--nd002)
 ***
-12. - [ ] *Linear Algebra Refresher Course*
+13. - [ ] *Linear Algebra Refresher Course*
 [link](https://eu.udacity.com/course/linear-algebra-refresher-course--ud953)
 ***
-13. - [ ] *Data Structures Algorithms in Python*
+14. - [ ] *Data Structures Algorithms in Python*
 [link](https://eu.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
 ***
-14. - [ ] *Machine Learning Engineer*
+15. - [ ] *Machine Learning Engineer*
 [link](https://eu.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
 ***
-15. - [ ] *Machine Learning Interview Preparation*
+16. - [ ] *Machine Learning Interview Preparation*
 [link](https://eu.udacity.com/course/machine-learning-interview-prep--ud1001)
 ***
