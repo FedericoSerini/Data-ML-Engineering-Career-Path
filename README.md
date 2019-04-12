@@ -4,8 +4,8 @@
 1. - [x] *SQL For Data Analysis*
 [link](https://eu.udacity.com/course/sql-for-data-analysis--ud198)
 ***
-2. - [ ] *Data Engineer*
-[link](https://eu.udacity.com/course/data-engineer-nanodegree--nd027)
+2. - [ ] *Data Engineer* [link](https://eu.udacity.com/course/data-engineer-nanodegree--nd027) [[Project 1](https://github.com/FedericoSerini/DEND-Project-1-Song-Play-Analysis-With-RDBMS),[Project 2](https://github.com/FedericoSerini/DEND-Project-2-Song-Play-Analysis-With-NoSQL)]
+
 ***
 3. - [ ] *Intro To Statistics*
 [link](https://eu.udacity.com/course/intro-to-statistics--st101)
