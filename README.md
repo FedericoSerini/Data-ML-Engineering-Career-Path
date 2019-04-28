@@ -49,3 +49,9 @@
 16. - [ ] *Machine Learning Interview Preparation*
 [link](https://eu.udacity.com/course/machine-learning-interview-prep--ud1001)
 ***
+
+# Books
+1. Kimball's Data Warehouse Toolkit Classics: The Data Warehouse Toolkit [link](https://www.amazon.com/dp/1118875184/ref=cm_sw_em_r_mt_dp_U_Y0uXCbTVBCT7S)
+2. NoSQL and SQL Data Modeling: Bringing Together Data, Semantics, and Software [link](https://www.amazon.com/NoSQL-SQL-Data-Modeling-Semantics/dp/1634621093/)
+3. Hands-On Big Data Modeling: Effective database design techniques for data architects and business intelligence professionals [link](https://www.amazon.com/Hands-Big-Data-Modeling-professionals/dp/1788620909/)
+4. Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems [link](https://www.amazon.com/dp/1449373321/ref=cm_sw_em_r_mt_dp_U_j2uXCbVQ2BEFD)
