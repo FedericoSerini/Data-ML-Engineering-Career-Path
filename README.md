@@ -4,19 +4,19 @@
 1. - [x] *SQL For Data Analysis*
 [link](https://eu.udacity.com/course/sql-for-data-analysis--ud198)
 ***
-2. - [ ] *Data Engineer* [link](https://eu.udacity.com/course/data-engineer-nanodegree--nd027) [[Project 1](https://github.com/FedericoSerini/DEND-Project-1-Song-Play-Analysis-With-RDBMS),[Project 2](https://github.com/FedericoSerini/DEND-Project-2-Song-Play-Analysis-With-NoSQL),[Project 3](https://github.com/FedericoSerini/DEND-Project-3-Data-Warehouse-AWS)]
+2. - [x] *Data Engineer* [link](https://eu.udacity.com/course/data-engineer-nanodegree--nd027) [[Project 1](https://github.com/FedericoSerini/DEND-Project-1-Song-Play-Analysis-With-RDBMS),[Project 2](https://github.com/FedericoSerini/DEND-Project-2-Song-Play-Analysis-With-NoSQL),[Project 3](https://github.com/FedericoSerini/DEND-Project-3-Data-Warehouse-AWS)]
 
 ***
-3. - [ ] *Intro To Statistics*
+3. - [x] *Intro To Statistics*
 [link](https://eu.udacity.com/course/intro-to-statistics--st101)
 ***
-4. - [ ] *Intro to Descriptive Statistics*
+4. - [x] *Intro to Descriptive Statistics*
 [link](https://eu.udacity.com/course/intro-to-descriptive-statistics--ud827)
 ***
-5. - [ ] *Intro to Inferential Statistics*
+5. - [x] *Intro to Inferential Statistics*
 [link](https://eu.udacity.com/course/intro-to-inferential-statistics--ud201)
 ***
-6. - [ ] *Intro To Machine Learning*
+6. - [x] *Intro To Machine Learning*
 [link](https://eu.udacity.com/course/intro-to-machine-learning--ud120)
 ***
 7. - [ ] *Data Engineering on Google Cloud Platform Specialization*
